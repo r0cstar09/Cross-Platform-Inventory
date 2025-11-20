@@ -1,0 +1,13 @@
+2025-11-19 16:41:12,998 - INFO - Logging initialized.
+2025-11-19 16:41:12,998 - INFO - Detected OS: darwin
+2025-11-19 16:41:12,998 - INFO - Collecting macOS inventory.
+2025-11-19 16:41:13,024 - INFO - Executed: ls /Applications
+2025-11-19 16:41:13,049 - INFO - Executed: scutil --get LocalHostName
+2025-11-19 16:41:13,081 - INFO - Executed: sw_vers
+2025-11-19 16:41:13,101 - INFO - Executed: sysctl -n machdep.cpu.brand_string
+2025-11-19 16:41:13,123 - INFO - Executed: ipconfig getifaddr en0
+2025-11-19 16:41:13,146 - INFO - Executed: /usr/libexec/ApplicationFirewall/socketfilterfw --getglobalstate
+2025-11-19 16:41:13,171 - INFO - Executed: sharing -l
+2025-11-19 16:41:13,232 - INFO - Executed: fdesetup status
+2025-11-19 16:41:13,234 - INFO - Inventory written to macos_inventory.json
+2025-11-19 16:41:13,234 - INFO - Applications written to macos_apps.json

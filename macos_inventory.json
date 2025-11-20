@@ -1,0 +1,13 @@
+{
+    "os_detected": "macOS",
+    "timestamp": "2025-11-19T21:41:13.233623",
+    "inventory": {
+        "hostname": "MacBook-Pro-66",
+        "os_version": "ProductName:\t\tmacOS\nProductVersion:\t\t26.0.1\nBuildVersion:\t\t25A362",
+        "cpu": "Apple M4 Max",
+        "ip_address": "172.20.10.5",
+        "firewall": "Firewall is disabled. (State = 0)",
+        "file_sharing": "List of Share Points\nname:\t\tTony Muzonzini\u2019s Public Folder\npath:\t\t/Users/tonymuzonzini/Public\n\tsmb:\t{\n    \t\tname:\tTony Muzonzini\u2019s Public Folder\n    \t\tshared:\t1\n    \t\tguest access:\t1\n    \t\tread-only:\t0\n    \t\tsealed:\t0\n\t}",
+        "disk_encryption": "FileVault is On."
+    }
+}
